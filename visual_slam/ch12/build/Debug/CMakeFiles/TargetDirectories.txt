@@ -1,0 +1,5 @@
+/home/yons/develop/AI/projects/visual_slam/ch12/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch12/build/Debug/CMakeFiles/edit_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch12/build/Debug/CMakeFiles/gen_vocab.dir
+/home/yons/develop/AI/projects/visual_slam/ch12/build/Debug/CMakeFiles/feature_training.dir
+/home/yons/develop/AI/projects/visual_slam/ch12/build/Debug/CMakeFiles/loop_closure.dir

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target name_demo[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/name_demo.dir/src/name_demo.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/yons/develop/AI/V_Slam/sim_platform/devel/.private/name_demo/lib/name_demo/name_demo[0m
+[100%] Built target name_demo

@@ -1,0 +1,8 @@
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/CMakeFiles/edit_cache.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/src/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/src/CMakeFiles/myslam.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/src/CMakeFiles/edit_cache.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/test/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/test/CMakeFiles/run_vo.dir
+/home/yons/develop/AI/projects/visual_slam/project/0.2/build/Debug/test/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/pose_estimation_2d2d.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/feature_extraction.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/pose_estimation_3d3d.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/triangulation.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/edit_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch7/build/Debug/CMakeFiles/pose_estimation_3d2d.dir

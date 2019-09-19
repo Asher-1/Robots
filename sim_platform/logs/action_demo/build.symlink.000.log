@@ -1,0 +1,214 @@
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/_index.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkAction.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkFeedback.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkGoal.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkActionGoal.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkActionResult.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkResult.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/_index.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/LinewalkActionFeedback.js
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/manifest.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkGoal.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkResult.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkActionResult.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkFeedback.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkAction.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkActionGoal.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/LinewalkActionFeedback.l
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/cmake/action_demo-msg-extras.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/cmake/action_demoConfig.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/cmake/action_demoConfig-version.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/cmake/action_demo-msg-paths.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkFeedback.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkActionFeedback.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkGoal.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkActionGoal.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkResult.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkAction.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/LinewalkActionResult.msg
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkActionFeedback.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkActionGoal.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkActionResult.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkActionFeedback.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/action_demo-msg.asd
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkGoal.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkGoal.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkAction.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkResult.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkActionGoal.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkFeedback.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkAction.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_LinewalkFeedback.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkResult.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/LinewalkActionResult.lisp
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkActionFeedback.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkAction.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkGoal.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkActionGoal.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkResult.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkFeedback.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/LinewalkActionResult.h
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/pkgconfig/action_demo.pc
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/__init__.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkActionFeedback.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkGoal.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkActionGoal.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/__init__.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkActionResult.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkAction.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkFeedback.py
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_LinewalkResult.py
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesAction.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesAction.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesActionResult.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionResult.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesFeedback.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesFeedback.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesActionGoal.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionGoal.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesResult.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesResult.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesGoal.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesGoal.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/DoDishesActionFeedback.js, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionFeedback.js)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesActionFeedback.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionFeedback.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesGoal.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesGoal.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesActionResult.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionResult.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesActionGoal.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionGoal.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesAction.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesAction.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesFeedback.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesFeedback.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/roseus/ros/action_demo/msg/DoDishesResult.l, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesResult.l)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesGoal.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesGoal.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesAction.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesAction.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesActionFeedback.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionFeedback.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesActionGoal.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionGoal.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesActionResult.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionResult.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesFeedback.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesFeedback.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/action_demo/msg/DoDishesResult.msg, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesResult.msg)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesFeedback.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesFeedback.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesGoal.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesGoal.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesActionFeedback.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionFeedback.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesAction.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesAction.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesResult.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesResult.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesResult.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesResult.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionGoal.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionGoal.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionResult.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionResult.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionFeedback.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionFeedback.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesFeedback.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesFeedback.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesActionGoal.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionGoal.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesActionResult.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionResult.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/_package_DoDishesGoal.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesGoal.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/share/common-lisp/ros/action_demo/msg/DoDishesAction.lisp, /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesAction.lisp)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesAction.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesAction.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesResult.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesResult.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesActionResult.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionResult.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesActionGoal.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionGoal.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesGoal.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesGoal.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesActionFeedback.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionFeedback.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/include/action_demo/DoDishesFeedback.h, /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesFeedback.h)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesFeedback.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesFeedback.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionResult.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionResult.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionFeedback.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionFeedback.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesGoal.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesGoal.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesResult.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesResult.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesAction.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesAction.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionGoal.py, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionGoal.py)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/action_demo/dishes_Server, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/action_demo/dishes_Server)
+Cleaning: (/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/action_demo/lib/action_demo/dishes_Client, /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/action_demo/dishes_Client)
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesAction.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionResult.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesFeedback.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionGoal.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesResult.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesGoal.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/gennodejs/ros/action_demo/msg/DoDishesActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesGoal.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionResult.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesActionGoal.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesAction.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesFeedback.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/roseus/ros/action_demo/msg/DoDishesResult.l
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesGoal.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesAction.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesActionResult.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesFeedback.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/action_demo/msg/DoDishesResult.msg
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesGoal.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesAction.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesResult.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesResult.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/_package_DoDishesGoal.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/share/common-lisp/ros/action_demo/msg/DoDishesAction.lisp
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesAction.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesResult.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionResult.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionGoal.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesGoal.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/include/action_demo/DoDishesFeedback.h
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesFeedback.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionResult.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesGoal.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesResult.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesAction.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/python2.7/dist-packages/action_demo/msg/_DoDishesActionGoal.py
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/action_demo/dishes_Server
+Already unlinked: {}
+Unlinking: /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/action_demo/dishes_Client
+Already unlinked: {}

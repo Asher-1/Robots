@@ -1,0 +1,5 @@
+ROS-Academy-for-Beginners-melodic/urdf_demo
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/urdf_demo/cmake.lock /home/yons/develop/AI/V_Slam/sim_platform/devel/./cmake.lock
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig-version.cmake /home/yons/develop/AI/V_Slam/sim_platform/devel/share/urdf_demo/cmake/urdf_demoConfig-version.cmake
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig.cmake /home/yons/develop/AI/V_Slam/sim_platform/devel/share/urdf_demo/cmake/urdf_demoConfig.cmake
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/urdf_demo/lib/pkgconfig/urdf_demo.pc /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/pkgconfig/urdf_demo.pc

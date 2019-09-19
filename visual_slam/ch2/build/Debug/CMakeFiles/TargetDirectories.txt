@@ -1,0 +1,6 @@
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/edit_cache.dir
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/useHello.dir
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/hello_shared.dir
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/helloSLAM.dir
+/home/yons/develop/AI/projects/visual_slam/ch2/build/Debug/CMakeFiles/hello.dir

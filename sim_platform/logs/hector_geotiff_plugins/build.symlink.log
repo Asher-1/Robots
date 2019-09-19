@@ -1,0 +1,4 @@
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/libhector_geotiff_plugins.so
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/pkgconfig/hector_geotiff_plugins.pc
