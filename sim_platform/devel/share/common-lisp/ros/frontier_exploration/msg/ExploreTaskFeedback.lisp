@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/frontier_exploration/share/common-lisp/ros/frontier_exploration/msg/ExploreTaskFeedback.lisp

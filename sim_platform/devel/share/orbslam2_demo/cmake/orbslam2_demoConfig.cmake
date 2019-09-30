@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/orbslam2_demo/share/orbslam2_demo/cmake/orbslam2_demoConfig.cmake

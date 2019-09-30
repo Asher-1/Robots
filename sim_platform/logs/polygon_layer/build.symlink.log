@@ -1,0 +1,4 @@
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/polygon_layer/cmake/polygon_layerConfig.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/share/polygon_layer/cmake/polygon_layerConfig-version.cmake
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/libpolygon_layer.so
+Symlinking /home/yons/develop/AI/V_Slam/sim_platform/devel/lib/pkgconfig/polygon_layer.pc

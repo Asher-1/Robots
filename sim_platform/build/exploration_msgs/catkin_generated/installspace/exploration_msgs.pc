@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/install
+
+Name: exploration_msgs
+Description: Description of exploration_msgs
+Version: 0.4.2
+Cflags: -I/home/yons/develop/AI/V_Slam/sim_platform/install/include
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/install/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime

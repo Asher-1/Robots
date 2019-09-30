@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/exploration_msgs/share/roseus/ros/exploration_msgs/msg/ExploreResult.l

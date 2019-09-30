@@ -21,13 +21,9 @@ flags = [
 '-isystem',
 '/home/yons/develop/AI/V_Slam/sim_platform/devel/include',
 '-isystem',
-'/home/yons/develop/AI/V_Slam/sim_platform/src/CMakeLists.txt/include',
-'-isystem',
 '/home/yons/develop/AI/V_Slam/sim_platform/src/ROS-Academy-for-Beginners-melodic/include',
 '-isystem',
-'/home/yons/develop/AI/V_Slam/sim_platform/src/ROS-Academy-for-Beginners-melodic.zip/include',
-'-isystem',
-'/home/yons/develop/AI/V_Slam/sim_platform/src/thirdparty.zip/include'
+'/home/yons/develop/AI/V_Slam/sim_platform/src/frontier_exploration/include'
 ]
 
 compilation_database_folder = ''

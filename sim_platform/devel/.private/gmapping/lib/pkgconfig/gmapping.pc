@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/gmapping
+
+Name: gmapping
+Description: Description of gmapping
+Version: 1.4.0
+Cflags: 
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/gmapping/lib 
+Requires: 

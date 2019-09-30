@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/frontier_exploration/lib/python2.7/dist-packages/frontier_exploration/__init__.py

@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC   -shared -Wl,-soname,libexample_plugin.so -o /home/yons/develop/AI/V_Slam/sim_platform/devel/.private/exploration_server/lib/libexample_plugin.so CMakeFiles/example_plugin.dir/src/example_plugin.cpp.o 

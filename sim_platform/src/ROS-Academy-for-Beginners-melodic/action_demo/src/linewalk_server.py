@@ -2,7 +2,8 @@
 # -*- coding: UTF-8 -*-
 # action_test服务器端
 # 导入action_test中的文件
-import roslib; roslib.load_manifest('action_demo')
+import roslib; 
+roslib.load_manifest('action_demo')
 # 导入rospy,进行python编写
 import rospy
 # 导入actionlib进行action通信

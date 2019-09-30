@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/service_demo/share/roseus/ros/service_demo/manifest.l

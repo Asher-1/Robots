@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/install
+
+Name: exploration_server
+Description: Description of exploration_server
+Version: 0.4.2
+Cflags: -I/home/yons/develop/AI/V_Slam/sim_platform/install/include
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/install/lib 
+Requires: actionlib costmap_2d exploration_msgs roscpp tf

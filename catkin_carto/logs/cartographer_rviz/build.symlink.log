@@ -1,0 +1,4 @@
+Symlinking /home/yons/develop/AI/V_Slam/catkin_carto/devel/share/cartographer_rviz/cmake/cartographer_rvizConfig-version.cmake
+Symlinking /home/yons/develop/AI/V_Slam/catkin_carto/devel/share/cartographer_rviz/cmake/cartographer_rvizConfig.cmake
+Symlinking /home/yons/develop/AI/V_Slam/catkin_carto/devel/lib/libcartographer_rviz.so
+Symlinking /home/yons/develop/AI/V_Slam/catkin_carto/devel/lib/pkgconfig/cartographer_rviz.pc

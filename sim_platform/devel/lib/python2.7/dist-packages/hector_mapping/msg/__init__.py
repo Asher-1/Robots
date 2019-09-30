@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/hector_mapping/lib/python2.7/dist-packages/hector_mapping/msg/__init__.py

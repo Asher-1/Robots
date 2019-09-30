@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/param_demo
+
+Name: param_demo
+Description: Description of param_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/param_demo/lib -lparam_demo
+Requires: roscpp

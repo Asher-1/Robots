@@ -1,0 +1,6 @@
+devel_space: /home/yons/develop/AI/V_Slam/sim_platform/devel
+install: false
+install_space: /home/yons/develop/AI/V_Slam/sim_platform/install
+profile: default
+source_space: /home/yons/develop/AI/V_Slam/sim_platform/src
+workspace: /home/yons/develop/AI/V_Slam/sim_platform

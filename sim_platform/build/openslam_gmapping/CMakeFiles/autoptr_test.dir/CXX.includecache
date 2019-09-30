@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yons/develop/AI/V_Slam/sim_platform/src/ROS-Academy-for-Beginners-melodic/dependlib/openslam_gmapping/include/gmapping/utils/autoptr.h
+assert.h
+-
+
+/home/yons/develop/AI/V_Slam/sim_platform/src/ROS-Academy-for-Beginners-melodic/dependlib/openslam_gmapping/utils/autoptr_test.cpp
+iostream
+-
+gmapping/utils/autoptr.h
+/home/yons/develop/AI/V_Slam/sim_platform/src/ROS-Academy-for-Beginners-melodic/dependlib/openslam_gmapping/utils/gmapping/utils/autoptr.h
+

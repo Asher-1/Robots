@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/service_demo/share/common-lisp/ros/service_demo/srv/_package_Greeting.lisp

@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/install
+
+Name: urdf_demo
+Description: Description of urdf_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/install/lib 
+Requires: 

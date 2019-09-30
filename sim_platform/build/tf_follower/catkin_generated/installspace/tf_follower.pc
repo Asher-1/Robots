@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/install
+
+Name: tf_follower
+Description: Description of tf_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/install/lib 
+Requires: 

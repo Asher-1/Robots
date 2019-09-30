@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/hector_imu_tools/lib/pkgconfig/hector_imu_tools.pc

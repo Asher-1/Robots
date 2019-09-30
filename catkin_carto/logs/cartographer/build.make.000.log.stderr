@@ -1,0 +1,10 @@
+In file included from /usr/src/googletest/googlemock/include/gmock/gmock-spec-builders.h:75:0,
+                 from /usr/src/googletest/googlemock/include/gmock/gmock-generated-function-mockers.h:43,
+                 from /usr/src/googletest/googlemock/include/gmock/gmock.h:61,
+                 from /home/yons/develop/AI/V_Slam/catkin_carto/src/cartographer/cartographer/io/serialization_format_migration_test.cc:27:
+/usr/src/googletest/googlemock/include/gmock/gmock-matchers.h: In instantiation of ‘bool testing::internal::AnyEq::operator()(const A&, const B&) const [with A = unsigned int; B = int]’:
+/usr/src/googletest/googlemock/include/gmock/gmock-matchers.h:908:18:   required from ‘bool testing::internal::ComparisonBase<D, Rhs, Op>::Impl<Lhs>::MatchAndExplain(Lhs, testing::MatchResultListener*) const [with Lhs = const unsigned int&; D = testing::internal::EqMatcher<int>; Rhs = int; Op = testing::internal::AnyEq]’
+/home/yons/develop/AI/V_Slam/catkin_carto/src/cartographer/cartographer/io/serialization_format_migration_test.cc:120:1:   required from here
+/usr/src/googletest/googlemock/include/gmock/gmock-matchers.h:204:60: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   bool operator()(const A& a, const B& b) const { return a == b; }
+                                                          ~~^~~~

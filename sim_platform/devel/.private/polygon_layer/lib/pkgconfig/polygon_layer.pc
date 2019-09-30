@@ -1,0 +1,8 @@
+prefix=/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/polygon_layer
+
+Name: polygon_layer
+Description: Description of polygon_layer
+Version: 0.4.2
+Cflags: -I/home/yons/develop/AI/V_Slam/sim_platform/src/frontier_exploration/polygon_layer/include -I/usr/include
+Libs: -L/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/polygon_layer/lib -lpolygon_layer
+Requires: costmap_2d geometry_msgs

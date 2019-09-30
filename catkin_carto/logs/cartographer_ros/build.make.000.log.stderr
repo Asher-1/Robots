@@ -1,0 +1,4 @@
+/home/yons/develop/AI/V_Slam/catkin_carto/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc: In function ‘std::unique_ptr<nav_msgs::OccupancyGrid_<std::allocator<void> > > cartographer_ros::CreateOccupancyGridMsg(const cartographer::io::PaintSubmapSlicesResult&, double, const string&, const ros::Time&)’:
+/home/yons/develop/AI/V_Slam/catkin_carto/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc:313:19: warning: variable ‘now’ set but not used [-Wunused-but-set-variable]
+   const ros::Time now = ros::Time::now();
+                   ^~~

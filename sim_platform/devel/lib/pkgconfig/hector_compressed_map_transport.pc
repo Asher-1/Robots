@@ -1,0 +1,1 @@
+/home/yons/develop/AI/V_Slam/sim_platform/devel/.private/hector_compressed_map_transport/lib/pkgconfig/hector_compressed_map_transport.pc

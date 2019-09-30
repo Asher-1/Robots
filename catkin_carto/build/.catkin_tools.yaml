@@ -1,0 +1,6 @@
+devel_space: /home/yons/develop/AI/V_Slam/catkin_carto/devel
+install: false
+install_space: /home/yons/develop/AI/V_Slam/catkin_carto/install
+profile: default
+source_space: /home/yons/develop/AI/V_Slam/catkin_carto/src
+workspace: /home/yons/develop/AI/V_Slam/catkin_carto
